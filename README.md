@@ -32,3 +32,5 @@ It uses **Passport.js** with the **Google OAuth 2.0 strategy** for authenticatio
    ```bash
    git clone https://github.com/Vikalp1O1/oAuth-Google.git
    cd oAuth-Google
+
+Run in your system using npm start
